@@ -18,7 +18,7 @@ any other purpose.
 
 ## About me
 
-I'm Yuya Saito who is a web designer/front-end developer from Tokyo, Japan.
+I'm Can Özmen and this fork is based on work of Yuya Saito who is a web designer/front-end developer from Tokyo, Japan.
 
 ## How to use it?
 
